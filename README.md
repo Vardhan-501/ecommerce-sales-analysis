@@ -10,10 +10,6 @@ This project analyzes e-commerce sales data using SQL and Power BI to identify s
 - MySQL
 - Power BI
 
-## Dashboard
-
-![Dashboard](images/dashboard.png)
-
 ## Key Metrics
 
 | Metric | Value |
