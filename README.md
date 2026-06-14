@@ -52,6 +52,7 @@ This project analyzes e-commerce sales data using SQL and Power BI to identify s
 - Top Products Analysis
 - Interactive Slicers
 
-## Project Files
+## Dashboard
+![image alt](https://github.com/Vardhan-501/ecommerce-sales-analysis/blob/main/ecommerce_dashboard.png?raw=true)
 
 
