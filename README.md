@@ -14,7 +14,7 @@ This project analyzes e-commerce sales data using **SQL (MySQL)** and **Power BI
 
 ## 📸 Dashboard Preview
 
-![image alt](https://github.com/Vardhan-501/ecommerce-sales-analysis/blob/main/ecommerce_dashboard.png?raw=true)
+![image alt](https://github.com/Vardhan-501/ecommerce-sales-analysis/blob/main/sales%20analysis%20dashboard.png?raw=true)
 
 
 ## 🎯 Key Performance Indicators (KPIs)
